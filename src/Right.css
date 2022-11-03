@@ -1,0 +1,61 @@
+h1 {
+  font-size: 15px;
+}
+h3 {
+  font-size: 14px;
+}
+.image1 {
+  width: 50px;
+  height: 50px;
+  margin-top: 10px;
+  border-radius: 50%;
+}
+.image2 {
+  width: 10px;
+  height: 10px;
+}
+button {
+  cursor: pointer;
+  margin-top: 20px;
+  height: 30px;
+  border-radius: 50%;
+  border: 1px solid black;
+  background-color: white;
+}
+button:hover {
+  background: #add8e6;
+}
+.bottom {
+  margin-top: 30px;
+  display: flex;
+  justify-content: space-around;
+}
+
+p {
+  font-size: 16px;
+}
+.title {
+  margin-left: -10px;
+}
+.box{
+  position: absolute;
+  top: 48%;
+  left: 75%;
+  border: 2px solid black;
+  display: flex;
+  background-color:gray;
+  padding: 5px;
+  border-radius:10px;
+}
+.all{
+  margin-left: 5px;
+  margin-top: 8px;
+}
+.all>img{
+  margin-left: 4px;
+}
+.icon{
+  width: 15px;
+  height: 20px;
+}
+

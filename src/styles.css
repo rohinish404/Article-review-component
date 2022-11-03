@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.card {
+  display: flex;
+  justify-content: space-between;
+  width: 80%;
+  border: 2px solid black;
+  margin: auto;
+  margin-top: 15%;
+  border-radius: 5px;
+  padding: 5px;
+}
+h1 {
+  font-size: 17px;
+}
